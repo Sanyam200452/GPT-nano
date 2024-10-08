@@ -14,7 +14,7 @@ Models made:
 5. Added projection and feed forward layers to add complexity to the model
 
 The loss(cross entropy) is observed to be reducing with each added mechanism
-| **Models Made**                                   | **Losses** |
+| **Models Made**                                   | **Loss(Cross Entropy)** |
 |---------------------------------------------------|------------|
 | 1. Bigram Language Model                          | 2.48       |
 | 2. Added Self-Attention                           | 2.37       |
