@@ -22,8 +22,8 @@ The loss(cross entropy) is observed to be reducing with each added mechanism
 | 4. Added Feed forward Layer                       | 2.22       |
 | 5. Multiple multi head attention blocks           | 1.96       |
 
-Final Loss when trained for more epochs:
-1.72
+###Final Loss when trained for more epochs: 1.72
+
 Throughout this notebook, I:
 
 Implement a simple bigram language model to establish a baseline.
